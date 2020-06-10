@@ -1,6 +1,7 @@
 # shodan_tools
 
 #SETUP
+
 	0) Make sure nmap is installed 
 
 	1) Make sure all .sh files can be executed (cmhod +x <file>)
