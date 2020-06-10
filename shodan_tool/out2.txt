@@ -1,0 +1,3586 @@
+176.74.240.33
+Hostnames:               static.ip-176-74-240-033.signet.nl
+City:                    Bladel
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-06T09:22:26.870302
+Number of open ports:    2
+
+Ports:
+     80/tcp SonicWALL firewall http config 
+    444/tcp SonicWALL firewall http config 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, TLSv1.1, TLSv1.2
+176.74.240.35
+Hostnames:               static.ip-176-74-240-035.signet.nl
+City:                    Bladel
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-05T08:48:43.512107
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft IIS httpd (7.5)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+176.74.240.36
+Hostnames:               static.ip-176-74-240-036.signet.nl
+City:                    Bladel
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-05-27T08:35:01.466963
+Number of open ports:    2
+Vulnerabilities:         CVE-2018-10549	CVE-2014-5459	CVE-2018-10545	CVE-2018-10547	CVE-2018-10546	CVE-2015-0231	CVE-2015-0232	CVE-2018-10548	CVE-2014-0185	CVE-2010-3972	CVE-2015-8994	CVE-2015-4148	CVE-2015-8935	CVE-2018-20783	CVE-2015-4147	CVE-2015-2348	CVE-2015-8838	CVE-2016-4073	CVE-2016-4072	CVE-2016-4071	CVE-2015-8835	CVE-2013-6712	CVE-2012-2531	CVE-2012-2532	CVE-2013-6420	CVE-2016-6174	CVE-2014-2020	CVE-2015-2783	CVE-2015-2787	CVE-2015-6831	CVE-2015-6832	CVE-2015-6833	CVE-2015-6834	CVE-2015-6835	CVE-2015-6836	CVE-2015-6837	CVE-2015-6838	CVE-2018-19520	CVE-2018-19396	CVE-2016-7478	CVE-2015-3412	CVE-2015-3411	CVE-2012-1171	CVE-2014-0207	CVE-2018-17082	CVE-2019-9639	CVE-2019-9638	CVE-2013-7328	CVE-2013-7327	CVE-2019-9637	CVE-2018-14883	CVE-2010-2730	CVE-2015-4600	CVE-2015-4603	CVE-2015-4602	CVE-2015-4605	CVE-2015-4604	CVE-2014-3597	CVE-2014-4670	CVE-2014-9912	CVE-2014-0237	CVE-2014-3981	CVE-2014-9652	CVE-2014-9653	CVE-2014-8142	CVE-2014-3515	CVE-2014-0238	CVE-2014-5120	CVE-2019-9023	CVE-2019-9020	CVE-2019-9021	CVE-2019-9024	CVE-2014-3587	CVE-2014-9705	CVE-2016-3185	CVE-2015-5589	CVE-2015-0273	CVE-2014-3669	CVE-2014-3668	CVE-2018-19935	CVE-2013-7226	CVE-2015-4599	CVE-2015-4598	CVE-2015-3307	CVE-2019-6977	CVE-2014-3478	CVE-2015-8873	CVE-2015-5590	CVE-2015-4021	CVE-2015-4022	CVE-2015-4025	CVE-2015-4024	CVE-2015-4026	CVE-2014-9427	CVE-2014-3670	CVE-2019-9641	CVE-2018-15132	CVE-2016-3171	CVE-2014-3487	CVE-2014-3480	CVE-2010-1256	CVE-2014-4721	CVE-2014-9767	CVE-2015-2331	CVE-2014-4698	CVE-2015-3329	CVE-2016-5116	CVE-2010-1899	CVE-2018-19395	CVE-2015-4644	CVE-2015-4642	CVE-2014-3479	CVE-2015-3330	CVE-2017-16642	
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft IIS httpd (7.5)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, -TLSv1.3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+176.74.240.37
+Hostnames:               static.ip-176-74-240-037.signet.nl
+City:                    Bladel
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-05T07:36:37.077746
+Number of open ports:    2
+
+Ports:
+     80/tcp nginx (1.11.12)
+    443/tcp nginx (1.11.12)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+176.74.240.40
+Hostnames:               static.ip-176-74-240-040.signet.nl
+City:                    Bladel
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-04T06:02:40.751647
+Number of open ports:    2
+
+Ports:
+     80/tcp nginx (1.17.7)
+    443/tcp nginx (1.17.7)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+176.74.240.41
+Hostnames:               static.ip-176-74-240-041.signet.nl
+City:                    Bladel
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-03T00:25:07.534894
+Number of open ports:    1
+
+Ports:
+   7443/tcp  
+176.74.240.44
+Hostnames:               static.ip-176-74-240-044.signet.nl
+City:                    Bladel
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-07T05:11:15.717776
+Number of open ports:    1
+
+Ports:
+    123/udp  
+176.74.240.46
+Hostnames:               static.ip-176-74-240-046.signet.nl
+City:                    Bladel
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-04T16:43:13.910009
+Number of open ports:    1
+
+Ports:
+    123/udp  
+182.72.200.225
+Hostnames:               nsg-static-225.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-05-28T15:21:55.509833
+Number of open ports:    1
+
+Ports:
+     22/tcp  
+182.72.200.226
+Hostnames:               nsg-static-226.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T14:13:08.955443
+Number of open ports:    4
+
+Ports:
+     25/tcp  
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+182.72.200.227
+Hostnames:               mail.altencalsoftlabs.com
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-02T19:55:41.399851
+Number of open ports:    4
+
+Ports:
+    500/udp  
+   5910/tcp VNC 
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.228
+Hostnames:               linmail.calsoftlabs.com
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T22:36:49.897666
+Number of open ports:    7
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          768
+		Generator:     30470ad5a005fb14ce2d9dcd87e38bc7d1b1c5facbaecbe95f190aa7a31d23c4dbbcbe06174544401a5b2c020965d8c2bd2171d3668445771f74ba084d2029d83c1c158547f3a9f1a2715be23d51ae4d3e5a1f6a7064f316933a346d3f529252
+		Fingerprint:   Java 7/Hardcoded 768-bit prime
+    465/tcp Postfix smtpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+    500/udp  
+    587/tcp Postfix smtpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, TLSv1
+    993/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          768
+		Generator:     30470ad5a005fb14ce2d9dcd87e38bc7d1b1c5facbaecbe95f190aa7a31d23c4dbbcbe06174544401a5b2c020965d8c2bd2171d3668445771f74ba084d2029d83c1c158547f3a9f1a2715be23d51ae4d3e5a1f6a7064f316933a346d3f529252
+		Fingerprint:   Java 7/Hardcoded 768-bit prime
+    995/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          768
+		Generator:     30470ad5a005fb14ce2d9dcd87e38bc7d1b1c5facbaecbe95f190aa7a31d23c4dbbcbe06174544401a5b2c020965d8c2bd2171d3668445771f74ba084d2029d83c1c158547f3a9f1a2715be23d51ae4d3e5a1f6a7064f316933a346d3f529252
+		Fingerprint:   Java 7/Hardcoded 768-bit prime
+   8443/tcp  
+182.72.200.229
+Hostnames:               nsg-static-229.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T17:01:03.129361
+Number of open ports:    5
+
+Ports:
+     80/tcp nginx 
+    443/tcp nginx 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.230
+Hostnames:               nsg-static-230.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-04T13:07:27.817359
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.231
+Hostnames:               nsg-static-231.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T16:13:19.159899
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.232
+Hostnames:               nsg-static-232.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T11:22:26.664848
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.233
+Hostnames:               nsg-static-233.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T06:49:48.990672
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.234
+Hostnames:               nsg-static-234.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-02T06:05:12.537129
+Number of open ports:    2
+
+Ports:
+    500/udp  
+   8443/tcp  
+182.72.200.235
+Hostnames:               nsg-static-235.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-05-18T04:35:44.077620
+Number of open ports:    2
+
+Ports:
+    500/udp  
+   8443/tcp  
+182.72.200.236
+Hostnames:               nsg-static-236.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T06:35:08.316786
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.237
+Hostnames:               nsg-static-237.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-05T23:10:41.634019
+Number of open ports:    6
+Vulnerabilities:         CVE-2019-0220	CVE-2019-0197	CVE-2019-0196	CVE-2018-1302	CVE-2019-0211	CVE-2017-15710	CVE-2018-1301	CVE-2018-1283	CVE-2018-1303	CVE-2017-15715	CVE-2018-1333	CVE-2018-17199	CVE-2018-11763	CVE-2018-1312	
+
+Ports:
+     80/tcp Apache httpd (2.4.29)
+    443/tcp Apache httpd (2.4.29)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+    500/udp  
+   8080/tcp Apache httpd (2.4.29)
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.238
+Hostnames:               nsg-static-238.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T10:40:14.966031
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.240
+Hostnames:               nsg-static-240.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-04T06:01:02.586017
+Number of open ports:    5
+Vulnerabilities:         CVE-2019-0196	CVE-2019-0197	CVE-2019-0220	CVE-2018-8011	CVE-2019-0211	CVE-2018-1333	CVE-2018-17199	CVE-2018-11763	
+
+Ports:
+    500/udp  
+   2223/tcp  
+   3128/tcp Apache httpd (2.4.33)
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.241
+Hostnames:               nsg-static-241.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-05-31T15:01:46.866329
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.243
+Hostnames:               nsg-static-243.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T15:30:11.673619
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.245
+Hostnames:               nsg-static-245.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-04T03:09:08.314061
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.254
+Hostnames:               nsg-static-254.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T15:01:43.919239
+Number of open ports:    2
+
+Ports:
+    500/udp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.73.72.34
+City:                    Mumbai
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-05T04:22:30.769368
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.73.72.36
+City:                    Mumbai
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-04T15:48:31.232403
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.73.72.40
+City:                    Mumbai
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T12:34:18.300262
+Number of open ports:    6
+Vulnerabilities:         CVE-2017-7679	CVE-2017-9798	CVE-2018-1312	CVE-2018-1333	CVE-2018-11763	CVE-2016-8612	CVE-2019-0197	CVE-2019-0196	CVE-2019-0211	CVE-2017-15710	CVE-2017-7668	CVE-2017-15715	CVE-2018-17199	CVE-2017-9788	CVE-2017-3167	CVE-2016-0736	CVE-2017-3169	CVE-2016-2161	CVE-2016-4979	CVE-2019-0220	CVE-2016-4975	CVE-2018-1283	CVE-2016-8740	CVE-2016-8743	
+
+Ports:
+     80/tcp nginx 
+    443/tcp nginx 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2, TLSv1.3
+    500/udp  
+   3128/tcp Apache httpd (2.4.20)
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.73.72.41
+Hostnames:               mail.altencalsoftlabs.com
+City:                    Mumbai
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-03T00:28:51.229244
+Number of open ports:    8
+
+Ports:
+     80/tcp  
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   RFC2409/Oakley Group 2
+    465/tcp Postfix smtpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+    500/udp  
+    587/tcp Postfix smtpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+    995/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   RFC2409/Oakley Group 2
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.73.72.43
+City:                    Mumbai
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-02T11:06:49.807021
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.73.72.44
+City:                    Mumbai
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T16:40:22.380113
+Number of open ports:    4
+
+Ports:
+     25/tcp  
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.73.72.45
+City:                    Mumbai
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-05-22T03:43:16.402564
+Number of open ports:    1
+
+Ports:
+     80/tcp nginx 
+182.73.72.46
+City:                    Mumbai
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T21:51:48.502071
+Number of open ports:    1
+
+Ports:
+     21/tcp  
+182.72.200.225
+Hostnames:               nsg-static-225.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-05-28T15:21:55.509833
+Number of open ports:    1
+
+Ports:
+     22/tcp  
+182.72.200.226
+Hostnames:               nsg-static-226.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T14:13:08.955443
+Number of open ports:    4
+
+Ports:
+     25/tcp  
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+182.72.200.227
+Hostnames:               mail.altencalsoftlabs.com
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-02T19:55:41.399851
+Number of open ports:    4
+
+Ports:
+    500/udp  
+   5910/tcp VNC 
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.228
+Hostnames:               linmail.calsoftlabs.com
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T22:36:49.897666
+Number of open ports:    7
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          768
+		Generator:     30470ad5a005fb14ce2d9dcd87e38bc7d1b1c5facbaecbe95f190aa7a31d23c4dbbcbe06174544401a5b2c020965d8c2bd2171d3668445771f74ba084d2029d83c1c158547f3a9f1a2715be23d51ae4d3e5a1f6a7064f316933a346d3f529252
+		Fingerprint:   Java 7/Hardcoded 768-bit prime
+    465/tcp Postfix smtpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+    500/udp  
+    587/tcp Postfix smtpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, TLSv1
+    993/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          768
+		Generator:     30470ad5a005fb14ce2d9dcd87e38bc7d1b1c5facbaecbe95f190aa7a31d23c4dbbcbe06174544401a5b2c020965d8c2bd2171d3668445771f74ba084d2029d83c1c158547f3a9f1a2715be23d51ae4d3e5a1f6a7064f316933a346d3f529252
+		Fingerprint:   Java 7/Hardcoded 768-bit prime
+    995/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          768
+		Generator:     30470ad5a005fb14ce2d9dcd87e38bc7d1b1c5facbaecbe95f190aa7a31d23c4dbbcbe06174544401a5b2c020965d8c2bd2171d3668445771f74ba084d2029d83c1c158547f3a9f1a2715be23d51ae4d3e5a1f6a7064f316933a346d3f529252
+		Fingerprint:   Java 7/Hardcoded 768-bit prime
+   8443/tcp  
+182.72.200.229
+Hostnames:               nsg-static-229.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T17:01:03.129361
+Number of open ports:    5
+
+Ports:
+     80/tcp nginx 
+    443/tcp nginx 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.230
+Hostnames:               nsg-static-230.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-04T13:07:27.817359
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.231
+Hostnames:               nsg-static-231.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T16:13:19.159899
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.232
+Hostnames:               nsg-static-232.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T11:22:26.664848
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.233
+Hostnames:               nsg-static-233.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T06:49:48.990672
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.234
+Hostnames:               nsg-static-234.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-02T06:05:12.537129
+Number of open ports:    2
+
+Ports:
+    500/udp  
+   8443/tcp  
+182.72.200.235
+Hostnames:               nsg-static-235.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-05-18T04:35:44.077620
+Number of open ports:    2
+
+Ports:
+    500/udp  
+   8443/tcp  
+182.72.200.236
+Hostnames:               nsg-static-236.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T06:35:08.316786
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.237
+Hostnames:               nsg-static-237.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-05T23:10:41.634019
+Number of open ports:    6
+Vulnerabilities:         CVE-2019-0220	CVE-2019-0197	CVE-2019-0196	CVE-2018-1302	CVE-2019-0211	CVE-2017-15710	CVE-2018-1301	CVE-2018-1283	CVE-2018-1303	CVE-2017-15715	CVE-2018-1333	CVE-2018-17199	CVE-2018-11763	CVE-2018-1312	
+
+Ports:
+     80/tcp Apache httpd (2.4.29)
+    443/tcp Apache httpd (2.4.29)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+    500/udp  
+   8080/tcp Apache httpd (2.4.29)
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.238
+Hostnames:               nsg-static-238.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T10:40:14.966031
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.240
+Hostnames:               nsg-static-240.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-04T06:01:02.586017
+Number of open ports:    5
+Vulnerabilities:         CVE-2019-0196	CVE-2019-0197	CVE-2019-0220	CVE-2018-8011	CVE-2019-0211	CVE-2018-1333	CVE-2018-17199	CVE-2018-11763	
+
+Ports:
+    500/udp  
+   2223/tcp  
+   3128/tcp Apache httpd (2.4.33)
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.241
+Hostnames:               nsg-static-241.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-05-31T15:01:46.866329
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.243
+Hostnames:               nsg-static-243.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-06T15:30:11.673619
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.245
+Hostnames:               nsg-static-245.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-04T03:09:08.314061
+Number of open ports:    3
+
+Ports:
+    500/udp  
+   8443/tcp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+182.72.200.254
+Hostnames:               nsg-static-254.200.72.182.airtel.in
+City:                    Bengaluru
+Country:                 India
+Organization:            Airtel
+Updated:                 2020-06-07T15:01:43.919239
+Number of open ports:    2
+
+Ports:
+    500/udp  
+  10443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+194.206.215.1
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-08T07:29:16.195429
+Number of open ports:    3
+Vulnerabilities:         CVE-2015-0204	
+
+Ports:
+     22/tcp OpenSSH (5.5p1 Debian 6+squeeze1)
+     53/udp  
+     53/tcp  
+  10000/tcp MiniServ (1.570)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, SSLv2, SSLv3, TLSv1
+194.206.215.3
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-03T19:19:38.834521
+Number of open ports:    3
+
+Ports:
+     22/tcp  
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+   8443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+194.206.215.4
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T22:43:38.360694
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+194.206.215.6
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T14:00:52.996599
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+194.206.215.8
+City:                    Vélizy-Villacoublay
+Country:                 France
+Operating System:        Windows Server 2003
+Organization:            Orange
+Updated:                 2020-06-01T05:30:21.255418
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+194.206.215.19
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-04T18:58:27.591060
+Number of open ports:    2
+Vulnerabilities:         CVE-2015-1635	MS15-034	
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft IIS httpd (7.5)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.20
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-05T15:14:48.131040
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+194.206.215.23
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T14:29:54.814244
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+194.206.215.25
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-04T13:16:37.408019
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.30
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-08T07:18:18.356673
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.31
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T06:16:05.902959
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+194.206.215.32
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-18T15:26:30.985509
+Number of open ports:    2
+Vulnerabilities:         CVE-2017-7269	CVE-2009-4444	CVE-2003-1582	CVE-2005-2089	CVE-2007-2897	CVE-2009-1535	CVE-2006-0026	CVE-2009-2521	CVE-2008-1446	CVE-2007-1278	CVE-2005-2678	CVE-2008-0074	CVE-2008-0075	CVE-2010-1256	CVE-2009-3023	CVE-2003-0718	CVE-2010-1899	
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+    443/tcp  
+194.206.215.33
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-03T13:46:05.620346
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.35
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-05T12:41:38.698424
+Number of open ports:    2
+Vulnerabilities:         CVE-2017-7269	CVE-2009-4444	CVE-2003-1582	CVE-2005-2089	CVE-2007-2897	CVE-2009-1535	CVE-2006-0026	CVE-2009-2521	CVE-2008-1446	CVE-2007-1278	CVE-2005-2678	CVE-2008-0074	CVE-2008-0075	CVE-2010-1256	CVE-2009-3023	CVE-2003-0718	CVE-2010-1899	
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+    443/tcp  
+194.206.215.36
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T02:00:43.458946
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.40
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T21:50:43.084466
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+194.206.215.48
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T23:44:25.247862
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+194.206.215.51
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-08T03:35:47.051810
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.0)
+194.206.215.53
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-08T07:25:24.010516
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+194.206.215.54
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-02T13:58:31.490156
+Number of open ports:    1
+
+Ports:
+     80/tcp  
+194.206.215.56
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-28T19:14:31.958984
+Number of open ports:    1
+Vulnerabilities:         CVE-2010-1899	CVE-2010-2730	CVE-2010-3972	CVE-2012-2531	CVE-2012-2532	CVE-2010-1256	
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+194.206.215.58
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T23:41:22.977633
+Number of open ports:    1
+
+Ports:
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.61
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-03T15:50:09.103026
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+    443/tcp  
+194.206.215.63
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T20:23:23.299142
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.67
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-01T05:41:38.966914
+Number of open ports:    2
+Vulnerabilities:         CVE-2008-1446	CVE-2009-2521	CVE-2010-1899	CVE-2009-3555	CVE-2008-0074	CVE-2010-1256	
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.0)
+    443/tcp Microsoft IIS httpd (7.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.69
+Hostnames:               mail.lincoln.fr
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T14:39:32.635081
+Number of open ports:    6
+Vulnerabilities:         CVE-2015-1635	MS15-034	
+
+Ports:
+     21/tcp Serv-U ftpd (4.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, SSLv2, SSLv3, TLSv1
+     22/tcp  
+     25/tcp IMail NT-ESMTP (9.23 269779-1)
+     80/tcp Microsoft IIS httpd (6.0)
+    110/tcp  
+    443/tcp Microsoft IIS httpd (6.0)
+194.206.215.70
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-24T10:46:02.882096
+Number of open ports:    2
+Vulnerabilities:         CVE-2018-10549	CVE-2014-5459	CVE-2018-10545	CVE-2018-10547	CVE-2018-10546	CVE-2019-9641	CVE-2005-2678	CVE-2010-1256	CVE-2003-1582	CVE-2014-4721	CVE-2018-10548	CVE-2018-19520	CVE-2018-19396	CVE-2018-19395	CVE-2018-19935	CVE-2018-17082	CVE-2008-1446	CVE-2009-1535	CVE-2019-9639	CVE-2019-9638	CVE-2007-1278	CVE-2019-9637	CVE-2015-8994	CVE-2017-16642	CVE-2017-7269	CVE-2018-20783	CVE-2010-1899	CVE-2007-2897	CVE-2018-14883	CVE-2016-7478	CVE-2019-6977	CVE-2009-2521	CVE-2009-3023	CVE-2003-0718	CVE-2014-9912	CVE-2014-0237	CVE-2009-4444	CVE-2014-9427	CVE-2006-0026	CVE-2014-0238	CVE-2005-2089	CVE-2019-9023	CVE-2019-9020	CVE-2019-9021	CVE-2008-0074	CVE-2008-0075	CVE-2019-9024	CVE-2018-15132	
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+    443/tcp  
+194.206.215.80
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T02:40:44.457392
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+194.206.215.81
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-04T09:46:37.204311
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.0)
+194.206.215.84
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T15:02:25.127518
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.88
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T08:33:49.384446
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+194.206.215.89
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-03T02:36:15.150443
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+    443/tcp  
+194.206.215.94
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T16:34:12.182410
+Number of open ports:    1
+
+Ports:
+     80/tcp Apache httpd (2.2.9)
+194.206.215.96
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-25T15:08:49.190005
+Number of open ports:    2
+Vulnerabilities:         CVE-2017-7269	CVE-2009-4444	CVE-2003-1582	CVE-2005-2089	CVE-2007-2897	CVE-2009-1535	CVE-2006-0026	CVE-2009-2521	CVE-2008-1446	CVE-2007-1278	CVE-2005-2678	CVE-2008-0074	CVE-2008-0075	CVE-2010-1256	CVE-2009-3023	CVE-2003-0718	CVE-2010-1899	
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+    443/tcp  
+194.206.215.102
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T02:53:07.927653
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+194.206.215.105
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-14T15:41:18.686981
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+194.206.215.109
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T12:29:39.658124
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+194.206.215.115
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T15:20:16.560901
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+194.206.215.140
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-02T09:36:49.831560
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.141
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-05T08:49:37.459861
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+194.206.215.142
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T19:27:01.968500
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+194.206.215.143
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T04:01:18.158214
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.144
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T20:54:04.068972
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.145
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T20:59:47.932292
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.147
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T20:27:57.372675
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+194.206.215.149
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T17:38:11.501350
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.150
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T21:47:01.595974
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+194.206.215.153
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-28T17:23:33.590107
+Number of open ports:    2
+Vulnerabilities:         CVE-2010-1899	CVE-2010-2730	CVE-2010-3972	CVE-2012-2531	CVE-2012-2532	CVE-2010-1256	
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.165
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-08T07:55:44.647494
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+194.206.215.179
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-01T22:34:29.127694
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.180
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-08T13:14:56.912555
+Number of open ports:    1
+Vulnerabilities:         CVE-2010-1899	CVE-2010-2730	CVE-2010-3972	CVE-2012-2531	CVE-2012-2532	CVE-2010-1256	
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+194.206.215.183
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-08T08:21:16.293538
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+194.206.215.186
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-05T11:48:53.270834
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.192
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-31T05:03:04.008435
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+194.206.215.207
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-26T07:19:01.181753
+Number of open ports:    1
+Vulnerabilities:         CVE-2008-1446	CVE-2009-2521	CVE-2010-1899	CVE-2009-3555	CVE-2008-0074	CVE-2010-1256	
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.0)
+194.206.215.211
+Hostnames:               mail2.indigo-diffusion.fr
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T05:52:39.896112
+Number of open ports:    4
+
+Ports:
+     25/tcp IMail NT-ESMTP (9.23 214348-4)
+     80/tcp Microsoft IIS httpd (6.0)
+    110/tcp  
+    443/tcp Microsoft IIS httpd (6.0)
+194.206.215.213
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-24T10:27:05.589256
+Number of open ports:    1
+Vulnerabilities:         CVE-2017-7269	CVE-2009-4444	CVE-2003-1582	CVE-2005-2089	CVE-2007-2897	CVE-2009-1535	CVE-2006-0026	CVE-2009-2521	CVE-2008-1446	CVE-2007-1278	CVE-2005-2678	CVE-2008-0074	CVE-2008-0075	CVE-2010-1256	CVE-2009-3023	CVE-2003-0718	CVE-2010-1899	
+
+Ports:
+     80/tcp Microsoft IIS httpd (6.0)
+194.206.215.219
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T02:46:16.083300
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.223
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-03T16:22:05.548485
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.225
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T02:21:09.410760
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.227
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T02:01:52.123724
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.228
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T18:16:03.977654
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.229
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-07T03:08:48.651376
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.231
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T23:19:19.964369
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.235
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T04:32:48.993099
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.237
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-06T08:55:52.588086
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.239
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-01T20:10:46.540909
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.241
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-05-19T23:18:48.029122
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+194.206.215.244
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-03T18:16:13.212460
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+194.206.215.245
+City:                    Vélizy-Villacoublay
+Country:                 France
+Organization:            Orange
+Updated:                 2020-06-04T05:48:31.540407
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+194.206.215.247
+City:                    Vélizy-Villacoublay
+Country:                 France
+Operating System:        Windows Server 2008
+Organization:            Orange
+Updated:                 2020-05-27T13:04:41.366268
+Number of open ports:    2
+Vulnerabilities:         CVE-2010-1899	CVE-2010-2730	CVE-2010-3972	CVE-2012-2531	CVE-2012-2532	CVE-2010-1256	
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+195.68.112.26
+Hostnames:               fw-outside26.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-04T22:25:31.227700
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.40
+Hostnames:               host.40.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-20T01:56:52.383666
+Number of open ports:    2
+
+Ports:
+     80/tcp nginx (1.18.0)
+    443/tcp nginx (1.18.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.49
+Hostnames:               host.49.112.68.195.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-01T23:22:06.520393
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, -TLSv1.3, TLSv1
+195.68.112.53
+Hostnames:               host.53.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T18:58:14.627453
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.54
+Hostnames:               host.54.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-14T11:29:50.459010
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   RFC2409/Oakley Group 2
+195.68.112.59
+Hostnames:               firewall.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-05T07:04:27.140172
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   RFC2409/Oakley Group 2
+195.68.112.81
+Hostnames:               host.81.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-03T09:21:20.750793
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+195.68.112.84
+Hostnames:               host.84.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-03T09:19:52.408396
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+195.68.112.90
+Hostnames:               host.90.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-23T09:34:41.084932
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+195.68.112.93
+Hostnames:               host.93.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-06T18:09:15.342977
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.131
+Hostnames:               smtp2.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-19T19:35:03.572395
+Number of open ports:    1
+
+Ports:
+     25/tcp  
+195.68.112.132
+Hostnames:               smtp1.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-01T17:11:37.830339
+Number of open ports:    1
+
+Ports:
+     25/tcp  
+195.68.112.133
+Hostnames:               mailgw1.de.alten.com
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-06T13:51:20.597827
+Number of open ports:    1
+
+Ports:
+     25/tcp  
+195.68.112.134
+Hostnames:               mailgw2.de.alten.com
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-25T02:00:54.826721
+Number of open ports:    1
+
+Ports:
+     25/tcp  
+195.68.112.135
+Hostnames:               smtpout2.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-27T18:48:00.796864
+Number of open ports:    1
+
+Ports:
+     25/tcp Cisco IronPort C160 firewall smtpd 
+195.68.112.136
+Hostnames:               smtpout1.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-27T18:44:05.690482
+Number of open ports:    1
+
+Ports:
+     25/tcp Cisco IronPort C160 firewall smtpd 
+195.68.112.147
+Hostnames:               workspace.altengroup.com
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-30T22:49:23.030724
+Number of open ports:    1
+
+Ports:
+    443/tcp Microsoft IIS httpd (8.5)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.149
+Hostnames:               itgfrapwww004.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-05T11:02:52.043381
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2, TLSv1.3
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.153
+Hostnames:               host.153.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-08T02:49:00.563102
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.156
+Hostnames:               fradc1www001.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-08T06:59:11.152663
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2, TLSv1.3
+195.68.112.160
+Hostnames:               itgfrapwww002.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-31T20:28:23.804300
+Number of open ports:    1
+
+Ports:
+     80/tcp Apache httpd (2.4.6)
+195.68.112.164
+Hostnames:               itgfrapwww001-164.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-06T17:08:08.048189
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.168
+Hostnames:               itgfrapwww001-168.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-03T14:03:05.139659
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.187
+Hostnames:               itgfrapwww001-187.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-03T03:52:57.350868
+Number of open ports:    1
+
+Ports:
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.190
+Hostnames:               itgfrapwww001-190.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T07:48:13.137536
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.194
+Hostnames:               itgfrapwww003-194.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-05T18:16:05.178112
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.195
+Hostnames:               itgfrapwww003-195.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T15:59:16.000622
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.196
+Hostnames:               itgfrapwww001.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T23:06:40.084623
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+195.68.112.207
+Hostnames:               amplify.alten.com
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T06:42:23.541429
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.213
+Hostnames:               fw-outside213.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-09T06:02:05.138751
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS 
+195.68.112.224
+Hostnames:               host.224.112.68.195.rev.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-06T21:39:07.302515
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS 
+195.68.112.225
+Hostnames:               fw-outside225.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T05:27:19.751153
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.228
+Hostnames:               fw-outside228.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-05T21:43:13.000515
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS 
+195.68.112.230
+Hostnames:               fw-outside230.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-14T00:52:57.144690
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS 
+195.68.112.233
+Hostnames:               fw-outside233.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T16:06:10.865875
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.234
+Hostnames:               fw-outside234.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T06:49:39.824457
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.237
+Hostnames:               fw-outside237.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T20:19:07.421310
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.243
+Hostnames:               fw-outside243.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-05T23:58:05.027975
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+195.68.112.252
+Hostnames:               dns1.e-iway.net
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-19T14:10:53.948983
+Number of open ports:    1
+
+Ports:
+     53/udp  
+213.246.199.18
+City:                    Brussels
+Country:                 Belgium
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-04T11:29:16.310361
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd (2.4.18)
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+213.246.199.19
+City:                    Brussels
+Country:                 Belgium
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T19:17:44.896821
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft IIS httpd (10.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+213.246.199.20
+City:                    Brussels
+Country:                 Belgium
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-06T05:19:57.071065
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (10.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+213.246.199.22
+City:                    Brussels
+Country:                 Belgium
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-06T08:00:55.113441
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+213.246.199.25
+City:                    Brussels
+Country:                 Belgium
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-07T10:24:16.847447
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd (2.4.18)
+    443/tcp Apache httpd (2.4.18)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+213.246.199.27
+City:                    Brussels
+Country:                 Belgium
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-06-03T05:18:08.000236
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+217.24.55.249
+Hostnames:               imp-249.suec-dacor-codab.de
+City:                    Coburg
+Country:                 Germany
+Organization:            suec // dacor GmbH
+Updated:                 2020-05-23T03:18:12.162136
+Number of open ports:    1
+
+Ports:
+    646/tcp  
+217.24.55.250
+Hostnames:               vpn.de.alten.com
+City:                    Coburg
+Country:                 Germany
+Organization:            suec // dacor GmbH
+Updated:                 2020-05-29T18:15:30.000656
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   RFC2409/Oakley Group 2
+217.24.55.251
+Hostnames:               www.alten-engineering.com
+City:                    Coburg
+Country:                 Germany
+Organization:            suec // dacor GmbH
+Updated:                 2020-05-30T03:34:55.054522
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2, TLSv1.3
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+217.24.55.252
+Hostnames:               mail.alten-engineering.com
+City:                    Coburg
+Country:                 Germany
+Organization:            suec // dacor GmbH
+Updated:                 2020-06-07T06:22:04.131786
+Number of open ports:    3
+
+Ports:
+     25/tcp Unrecognized SMTP service 
+     80/tcp  
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2, TLSv1.3
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+31.223.160.116
+Hostnames:               static.ip-031-223-160-116.signet.nl
+City:                    Rotterdam
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-03T08:37:15.521386
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+31.223.160.118
+Hostnames:               mail.altenpts.nl
+City:                    Rotterdam
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-06-03T04:53:35.364170
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp Microsoft IIS httpd (7.5)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+31.223.160.126
+Hostnames:               ams-er8-sara.signet.nl
+City:                    Rotterdam
+Country:                 Netherlands
+Organization:            Signet B.V.
+Updated:                 2020-05-30T20:37:59.274667
+Number of open ports:    1
+
+Ports:
+    123/udp  
+46.227.169.113
+City:                    Senice na Hane
+Country:                 Czechia
+Organization:            MERIT GROUP a.s
+Updated:                 2020-06-07T09:40:19.444316
+Number of open ports:    1
+
+Ports:
+     22/tcp  
+46.227.169.114
+Hostnames:               vpn.adds.cz
+City:                    Senice na Hane
+Country:                 Czechia
+Organization:            MERIT GROUP a.s
+Updated:                 2020-06-06T16:35:23.296034
+Number of open ports:    2
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   RFC2409/Oakley Group 2
+    636/tcp  
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, SSLv2, SSLv3, TLSv1
+46.227.169.116
+Hostnames:               mail.adds.cz
+City:                    Senice na Hane
+Country:                 Czechia
+Organization:            MERIT GROUP a.s
+Updated:                 2020-05-24T08:13:44.213423
+Number of open ports:    2
+Vulnerabilities:         CVE-2010-1899	CVE-2010-2730	CVE-2010-3972	CVE-2012-2531	CVE-2012-2532	CVE-2010-1256	
+
+Ports:
+     25/tcp Microsoft Exchange smtpd 
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, SSLv3, TLSv1
+    443/tcp Microsoft IIS httpd (7.5)
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+46.227.169.117
+City:                    Olomouc
+Country:                 Czechia
+Organization:            MERIT GROUP a.s
+Updated:                 2020-05-09T17:06:52.613020
+Number of open ports:    1
+
+Ports:
+     80/tcp Apache Tomcat/Coyote JSP engine (1.1)
+46.227.169.119
+City:                    Senice na Hane
+Country:                 Czechia
+Organization:            MERIT GROUP a.s
+Updated:                 2020-06-08T07:55:12.046813
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache Tomcat/Coyote JSP engine (1.1)
+   8080/tcp Apache Tomcat/Coyote JSP engine (1.1)
+46.227.169.122
+Hostnames:               fs.aprova.cz
+City:                    Senice na Hane
+Country:                 Czechia
+Organization:            MERIT GROUP a.s
+Updated:                 2020-06-06T11:54:16.314165
+Number of open ports:    2
+
+Ports:
+     80/tcp nginx (1.10.2)
+    443/tcp nginx (1.10.2)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          4096
+		Generator:     2
+62.72.112.174
+Hostnames:               174-112-72-62.be.colt.net
+City:                    Brussels
+Country:                 Belgium
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-30T19:57:52.882599
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd 
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2, TLSv1.3
+91.229.141.1
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-05-31T08:42:12.517140
+Number of open ports:    1
+
+Ports:
+    123/udp  
+91.229.141.2
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-05-23T10:01:42.082400
+Number of open ports:    1
+
+Ports:
+    123/udp  
+91.229.141.3
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-01T18:49:11.137413
+Number of open ports:    1
+
+Ports:
+    123/udp  
+91.229.141.19
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-06T00:10:01.797748
+Number of open ports:    1
+
+Ports:
+   8090/tcp  
+91.229.141.24
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-08T03:25:00.403408
+Number of open ports:    1
+
+Ports:
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+91.229.141.25
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-02T22:39:51.592401
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+91.229.141.28
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-06T23:31:43.298902
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+91.229.141.29
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-07T15:22:06.682401
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+91.229.141.31
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-05T15:27:38.357091
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+91.229.141.32
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-07T14:31:07.997593
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+91.229.141.36
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-06T04:15:37.951146
+Number of open ports:    3
+
+Ports:
+     21/tcp Serv-U ftpd (15.1)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.2, TLSv1, TLSv1.1
+     80/tcp Microsoft IIS httpd (8.5)
+    443/tcp Rhinosoft Serv-U httpd (15.1.4.6)
+	|-- SSL Versions: -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+91.229.141.42
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-05-17T22:33:24.730562
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (10.0)
+91.229.141.52
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-04T00:59:14.089549
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+91.229.141.53
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-08T05:54:53.108904
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS 
+91.229.141.54
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-05T00:24:45.057471
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+91.229.141.55
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-07T08:10:49.991909
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS 
+    443/tcp Microsoft IIS 
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+91.229.141.60
+Hostnames:               mail.altensweden.se
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-02T10:27:22.581163
+Number of open ports:    1
+
+Ports:
+     25/tcp  
+91.229.141.66
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-02T11:19:39.486158
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.3, TLSv1.1, TLSv1.2
+91.229.141.67
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-06-06T18:39:25.741535
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache Tomcat/Coyote JSP engine (1.1)
+    443/tcp Apache Tomcat/Coyote JSP engine (1.1)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     f7e1a085d69b3ddecbbcab5c36b857b97994afbbfa3aea82f9574c0b3d0782675159578ebad4594fe67107108180b449167123e84c281613b7cf09328cc8a6e13c167a8b547c8d28e0a3ae1e2bb3a675916ea37f0bfa213562f1fb627a01243bcca4f1bea8519089a883dfe15ae59f06928b665e807b552564014c3bfecf492a
+		Fingerprint:   Weakdh.org harvested 1024-bit prime #6
+91.229.141.72
+City:                    Gothenburg
+Country:                 Sweden
+Organization:            Tele2
+Updated:                 2020-05-31T04:55:04.084855
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     373a31d87b49584b8839addf1fb8c02abe47f2a6e12dd9ac6f338f08a6b2ced412f19d42ab0e08b0356f133c3029ba4286d2421b823d0e78ca6eaa8b1f5be3978091c4ebfc1b84dc7235920da75b43cff6986254508fcc651310590066b91c2a7545d6171531bf721e65498fbd62c425d11b54b2dad7dee3be61da88f1b18c934e460c014778bf4b43bfb51c8e4c658244da955e3a215944232b1b1f6cd7f37c79cd2c70e4730badb839cb0db99b0983a5d9e6cb433bb61b7497a3e096015c2ddf06ed166f8c02582f66669cd65b884bac77e7bb82d8c97672b3e80a1af1df5f7f0200743e1ab41cd6f04955dab8e3c60320a5b8c92ec494f085c256508edeb0
+89.96.187.129
+Hostnames:               89-96-187-129.ip13.fastwebnet.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-08T02:20:13.088997
+Number of open ports:    1
+
+Ports:
+   2002/tcp Cisco router telnetd 
+89.96.187.130
+Hostnames:               89-96-187-130.ip13.fastwebnet.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-03T05:33:35.563437
+Number of open ports:    2
+
+Ports:
+   2002/tcp Cisco router telnetd 
+   9002/tcp  
+89.96.187.133
+Hostnames:               89-96-187-133.ip13.fastwebnet.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-09T23:42:47.875338
+Number of open ports:    1
+
+Ports:
+    500/udp  
+89.96.187.134
+Hostnames:               ns3.altenitalia.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-07T10:30:31.845542
+Number of open ports:    1
+
+Ports:
+     53/tcp  
+     53/udp  
+89.96.187.136
+Hostnames:               89-96-187-136.ip13.fastwebnet.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-05T18:24:06.292813
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+   1194/udp  
+89.96.187.137
+Hostnames:               89-96-187-137.ip13.fastwebnet.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-28T16:36:06.315904
+Number of open ports:    1
+
+Ports:
+   1194/udp  
+89.96.187.138
+Hostnames:               smtp.alten.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-25T07:35:20.770364
+Number of open ports:    1
+
+Ports:
+   1194/udp  
+89.96.187.139
+Hostnames:               89-96-187-139.ip13.fastwebnet.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-04T04:23:22.459505
+Number of open ports:    3
+
+Ports:
+     80/tcp Apache httpd (2.4.29)
+    443/tcp Apache httpd (2.4.29)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, -TLSv1.3, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+   1194/udp  
+89.96.187.140
+Hostnames:               89-96-187-140.ip13.fastwebnet.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-04T19:52:44.254779
+Number of open ports:    1
+
+Ports:
+   1194/udp  
+89.96.187.142
+Hostnames:               smtp.alten.it
+City:                    Casciago
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-05T09:08:32.469517
+Number of open ports:    1
+
+Ports:
+   1194/udp  
+93.145.195.97
+Hostnames:               net-93-145-195-97.cust.vodafonedsl.it
+City:                    Carmagnola
+Country:                 Italy
+Organization:            Vodafone Italia DSL
+Updated:                 2020-05-30T03:36:39.220673
+Number of open ports:    1
+
+Ports:
+    123/udp  
+93.145.195.99
+Hostnames:               net-93-145-195-99.cust.vodafonedsl.it
+City:                    Carmagnola
+Country:                 Italy
+Organization:            Vodafone Italia DSL
+Updated:                 2020-06-02T03:49:40.774337
+Number of open ports:    2
+
+Ports:
+     80/tcp  
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, -TLSv1.3, TLSv1
+93.145.195.100
+Hostnames:               net-93-145-195-100.cust.vodafonedsl.it
+City:                    Carmagnola
+Country:                 Italy
+Organization:            Vodafone Italia DSL
+Updated:                 2020-06-05T10:27:43.736749
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd (2.2.31)
+    443/tcp Apache Tomcat/Coyote JSP engine (1.1)
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+93.145.195.127
+Hostnames:               net-93-145-195-127.cust.vodafonedsl.it
+City:                    Carmagnola
+Country:                 Italy
+Organization:            Vodafone Italia DSL
+Updated:                 2020-06-01T22:27:41.321941
+Number of open ports:    1
+
+Ports:
+    123/udp  
+93.62.124.1
+Hostnames:               93-62-124-1.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-02T00:01:56.104985
+Number of open ports:    1
+
+Ports:
+   2002/tcp Cisco router telnetd 
+93.62.124.2
+Hostnames:               93-62-124-2.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-29T04:07:37.688546
+Number of open ports:    1
+
+Ports:
+   2002/tcp Cisco router telnetd 
+93.62.124.5
+Hostnames:               93-62-124-5.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-08T02:41:13.000186
+Number of open ports:    5
+
+Ports:
+     80/tcp nginx (1.10.3)
+     81/tcp  
+    443/tcp nginx (1.10.3)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+   8080/tcp nginx (1.10.3)
+   8181/tcp nginx (1.10.3)
+93.62.124.11
+Hostnames:               fwbs.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-05T03:22:12.937741
+Number of open ports:    1
+
+Ports:
+    500/udp  
+93.62.124.16
+Hostnames:               93-62-124-16.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-25T18:29:25.835543
+Number of open ports:    1
+
+Ports:
+    500/udp  
+93.62.124.17
+Hostnames:               93-62-124-17.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-29T09:54:07.014181
+Number of open ports:    1
+
+Ports:
+    123/udp  
+93.62.124.18
+Hostnames:               93-62-124-18.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-04T05:18:33.225743
+Number of open ports:    1
+
+Ports:
+     80/tcp Apache httpd (2.4.10)
+93.62.124.21
+Hostnames:               ns1.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-26T05:05:41.802645
+Number of open ports:    1
+
+Ports:
+     53/udp  
+     53/tcp  
+93.62.124.22
+Hostnames:               ns2.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-04T17:22:31.565365
+Number of open ports:    1
+
+Ports:
+     53/udp  
+     53/tcp  
+93.62.124.38
+Hostnames:               93-62-124-38.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-22T19:10:36.334905
+Number of open ports:    1
+
+Ports:
+    500/udp  
+93.62.124.40
+Hostnames:               93-62-124-40.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-02T13:27:03.587724
+Number of open ports:    1
+
+Ports:
+    500/udp  
+93.62.124.41
+Hostnames:               93-62-124-41.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-04T23:38:52.373935
+Number of open ports:    3
+
+Ports:
+     25/tcp Postfix smtpd 
+    110/tcp  
+    143/tcp  
+93.62.124.58
+Hostnames:               93-62-124-58.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-04T09:19:56.322397
+Number of open ports:    1
+
+Ports:
+    500/udp  
+93.62.124.60
+Hostnames:               93-62-124-60.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-30T21:34:17.665877
+Number of open ports:    1
+
+Ports:
+     21/tcp ProFTPD (1.3.5b)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, TLSv1
+93.62.124.196
+Hostnames:               93-62-124-196.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-06T06:04:24.774958
+Number of open ports:    2
+Vulnerabilities:         CVE-2015-1635	MS15-034	
+
+Ports:
+     80/tcp Microsoft IIS httpd (8.5)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+93.62.124.203
+Hostnames:               93-62-124-203.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-08T07:17:10.768479
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd (2.4.25)
+    443/tcp nginx 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, -TLSv1.1, TLSv1.2, TLSv1.3
+93.62.124.205
+Hostnames:               mail.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-07T22:10:59.316714
+Number of open ports:    10
+
+Ports:
+     13/tcp  
+     25/tcp IceWarp smtpd (11.2.1.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+     80/tcp  
+    110/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+    445/tcp  
+    465/tcp IceWarp smtpd (11.2.1.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+    993/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+    995/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+   3388/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+93.62.124.206
+Hostnames:               mail2.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-08T08:15:17.696168
+Number of open ports:    10
+
+Ports:
+     13/tcp  
+     25/tcp IceWarp smtpd (11.2.1.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+     80/tcp  
+    110/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+    143/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+    445/tcp  
+    465/tcp IceWarp smtpd (11.2.1.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+    993/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+    995/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+93.62.124.209
+Hostnames:               93-62-124-209.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-07T07:31:01.103177
+Number of open ports:    1
+
+Ports:
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+93.62.124.210
+Hostnames:               93-62-124-210.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-04T11:18:01.903319
+Number of open ports:    1
+
+Ports:
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+93.62.124.211
+Hostnames:               93-62-124-211.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-02T10:12:32.395577
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+93.62.124.214
+Hostnames:               93-62-124-214.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-24T17:52:44.254309
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+93.62.124.216
+Hostnames:               93-62-124-216.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-03T03:52:39.880012
+Number of open ports:    2
+Vulnerabilities:         CVE-2019-0215	CVE-2018-17189	CVE-2018-19935	CVE-2019-0197	CVE-2019-0196	CVE-2019-0190	CVE-2019-0211	CVE-2019-9639	CVE-2019-9638	CVE-2019-9021	CVE-2019-9637	CVE-2019-11040	CVE-2018-17199	CVE-2018-20783	CVE-2019-11039	CVE-2019-11038	CVE-2019-0220	CVE-2019-11036	CVE-2019-11035	CVE-2019-11034	CVE-2019-9022	CVE-2019-9023	CVE-2019-9020	CVE-2019-9641	CVE-2019-9024	CVE-2019-9640	
+
+Ports:
+     80/tcp Apache httpd (2.4.37)
+    443/tcp Apache httpd (2.4.37)
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2, TLSv1.3
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+93.62.124.217
+Hostnames:               93-62-124-217.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-28T00:19:41.841031
+Number of open ports:    1
+
+Ports:
+     80/tcp Microsoft IIS httpd (8.5)
+93.62.124.223
+Hostnames:               93-62-124-223.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-02T13:10:18.162212
+Number of open ports:    1
+
+Ports:
+    443/tcp Microsoft IIS httpd (7.5)
+	|-- SSL Versions: -SSLv2, -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv3, TLSv1
+93.62.124.224
+Hostnames:               93-62-124-224.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-05T01:16:28.936781
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd (2.2.22)
+    443/tcp Apache httpd (2.2.22)
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   mod_ssl 2.2.x/Hardcoded 1024-bit prime
+93.62.124.225
+Hostnames:               93-62-124-225.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-02T06:19:13.628381
+Number of open ports:    1
+
+Ports:
+     80/tcp Apache httpd (2.4.7)
+93.62.124.231
+Hostnames:               93-62-124-231.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-05T10:58:30.870771
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd (2.2.22)
+    443/tcp Apache httpd (2.2.22)
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   mod_ssl 2.2.x/Hardcoded 1024-bit prime
+93.62.124.233
+Hostnames:               93-62-124-233.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-29T23:02:56.243223
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft HTTPAPI httpd (2.0)
+    443/tcp  
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, -TLSv1.3, SSLv2, SSLv3, TLSv1
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+93.62.124.238
+Hostnames:               93-62-124-238.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-02T01:10:08.491422
+Number of open ports:    1
+Vulnerabilities:         CVE-2015-1635	MS15-034	
+
+Ports:
+     80/tcp Microsoft IIS httpd (8.5)
+93.62.124.241
+Hostnames:               93-62-124-241.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-08T01:38:23.107331
+Number of open ports:    2
+
+Ports:
+     80/tcp Microsoft IIS httpd (8.0)
+    443/tcp Microsoft HTTPAPI httpd (2.0)
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+93.62.124.243
+Hostnames:               93-62-124-243.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-20T00:51:46.018104
+Number of open ports:    2
+Vulnerabilities:         CVE-2010-1899	CVE-2010-2730	CVE-2010-3972	CVE-2012-2531	CVE-2012-2532	CVE-2010-1256	
+
+Ports:
+     21/tcp  
+     80/tcp Microsoft IIS httpd (7.5)
+93.62.124.244
+Hostnames:               93-62-124-244.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-07T14:24:37.022957
+Number of open ports:    3
+
+Ports:
+     21/tcp  
+	|-- SSL Versions: -TLSv1.1, -TLSv1.2, SSLv3, TLSv1
+     80/tcp Microsoft IIS httpd (5.0)
+    443/tcp  
+93.62.124.248
+Hostnames:               93-62-124-248.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-06T03:41:26.547671
+Number of open ports:    1
+
+Ports:
+    443/tcp Microsoft IIS httpd (8.5)
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+93.62.124.249
+Hostnames:               93-62-124-249.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-05-31T12:19:03.721067
+Number of open ports:    1
+
+Ports:
+   9000/tcp  
+93.62.124.252
+Hostnames:               93-62-124-252.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-07T20:49:35.566121
+Number of open ports:    3
+
+Ports:
+     21/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+     80/tcp Apache httpd (2.2.22)
+    443/tcp Apache httpd (2.2.22)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+93.62.124.253
+Hostnames:               93-62-124-253.altenitalia.it
+City:                    Seregno
+Country:                 Italy
+Organization:            Fastweb
+Updated:                 2020-06-04T03:43:11.026786
+Number of open ports:    3
+
+Ports:
+     21/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+     80/tcp Apache httpd (2.2.22)
+    443/tcp Apache httpd (2.2.22)
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+217.74.110.28
+City:                    Paris
+Country:                 France
+Organization:            SEWAN SAS
+Updated:                 2020-06-03T13:36:22.982136
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002
+		Fingerprint:   RFC2409/Oakley Group 2
+62.23.167.225
+City:                    Paris
+Country:                 France
+Organization:            COLT Technology Services Group Limited
+Updated:                 2020-05-18T11:22:41.360672
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.1, -TLSv1.2, -TLSv1.3, TLSv1
+62.154.217.82
+City:                    Oststeinbek
+Country:                 Germany
+Organization:            Deutsche Telekom AG
+Updated:                 2020-05-28T14:59:07.343524
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, TLSv1.1, TLSv1.2, TLSv1.3
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+62.154.217.84
+City:                    Oststeinbek
+Country:                 Germany
+Organization:            Deutsche Telekom AG
+Updated:                 2020-06-03T06:20:38.850821
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, TLSv1.1, TLSv1.2, TLSv1.3
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+62.154.217.86
+Hostnames:               mail.alten-technology.com
+City:                    Oststeinbek
+Country:                 Germany
+Organization:            Deutsche Telekom AG
+Updated:                 2020-06-06T17:50:40.608153
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1, TLSv1.1, TLSv1.2, TLSv1.3
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+85.62.218.82
+City:                    Madrid
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-05-22T14:55:35.672677
+Number of open ports:    1
+
+Ports:
+    443/tcp  
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+85.62.218.83
+City:                    Madrid
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-05T04:46:45.694254
+Number of open ports:    1
+
+Ports:
+    443/tcp Apache httpd 
+	|-- SSL Versions: -SSLv2, -SSLv3, -TLSv1.3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+85.62.218.84
+City:                    Madrid
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-08T08:13:00.320574
+Number of open ports:    2
+
+Ports:
+     80/tcp Apache httpd (2.4.7)
+    443/tcp Apache httpd (2.4.7)
+	|-- SSL Versions: -SSLv2, -TLSv1.3, SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          2048
+		Generator:     2
+		Fingerprint:   RFC3526/Oakley Group 14
+85.62.218.85
+City:                    Madrid
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-02T04:37:47.406495
+Number of open ports:    1
+
+Ports:
+    123/udp ntpd (4)
+85.62.218.87
+City:                    Madrid
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-05-29T23:24:08.404030
+Number of open ports:    1
+Vulnerabilities:         CVE-2010-1899	CVE-2010-2730	CVE-2010-3972	CVE-2012-2531	CVE-2012-2532	CVE-2010-1256	
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+85.62.218.89
+City:                    Madrid
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-07T03:59:24.762296
+Number of open ports:    3
+
+Ports:
+     22/tcp OpenSSH (6.7p1 Debian 5+deb8u4)
+   8080/tcp Apache Tomcat/Coyote JSP engine (1.1)
+   8443/tcp Apache Tomcat/Coyote JSP engine (1.1)
+	|-- SSL Versions: -SSLv2, -SSLv3, TLSv1, TLSv1.1, TLSv1.2
+	|-- Diffie-Hellman Parameters:
+		Bits:          1024
+		Generator:     2
+		Fingerprint:   RFC2409/Oakley Group 2
+85.62.218.93
+City:                    Madrid
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-03T20:33:25.890177
+Number of open ports:    2
+
+Ports:
+     22/tcp OpenSSH (6.7p1 Debian 5+deb8u4)
+     25/tcp Postfix smtpd 
+90.160.141.49
+City:                    Avilés
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-06T20:08:34.474160
+Number of open ports:    1
+
+Ports:
+    123/udp ntpd (4)
+90.160.141.50
+City:                    Avilés
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-05-28T17:07:23.150014
+Number of open ports:    1
+
+Ports:
+    123/udp ntpd (4)
+90.160.141.51
+City:                    Avilés
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-06T02:22:18.132468
+Number of open ports:    1
+
+Ports:
+    123/udp  
+90.160.141.53
+City:                    Avilés
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-03T23:43:18.937166
+Number of open ports:    1
+
+Ports:
+   8080/tcp  
+90.160.141.54
+City:                    Avilés
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-02T12:50:28.162279
+Number of open ports:    4
+
+Ports:
+     80/tcp Microsoft IIS httpd (7.5)
+   2345/tcp  
+   8080/tcp  
+   8086/tcp  
+90.160.141.55
+City:                    Avilés
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-06-07T10:26:59.829218
+Number of open ports:    1
+
+Ports:
+   8080/tcp  
+90.160.13.150
+City:                    Badalona
+Country:                 Spain
+Organization:            Orange Espana
+Updated:                 2020-05-31T11:22:50.096066
+Number of open ports:    1
+
+Ports:
+     80/tcp Apache httpd (2.4.10)
