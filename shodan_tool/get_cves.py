@@ -39,7 +39,6 @@ for i in uniq:
 	f.write('\n')
 f.close()
 
-
 '-----------------------------------------------------------'
 
 #get all rankings from internet & store in tmp2
@@ -51,12 +50,10 @@ os.system('./cve.sh')
 #sort and rank cves
 
 f = open('tmp2.txt')
-
 data = f.readlines()
 f.close()
 
 cves = {}
-
 for line in data:
 	try:
 		cve = re.search('content="(.*), ',line)
@@ -65,9 +62,34 @@ for line in data:
 		rank = float(rank.group(1).split(',')[0])
 		cves.update({cve:rank})
 		#print cves
+
 	except:
 		pass
 		
+
+f = open('description.txt')
+data = f.readlines()
+f.close()
+description = {}
+for line in data:
+	try:
+		cve = re.search('content="(.*) :',line)
+		cve = cve.group(1)
+		des = re.search('content="(.*)"/>',line)
+		des = des.group(1)
+		description.update({cve:des})
+	except:
+		pass
+
+
+f = open('cve_description.txt','w')
+for i in description:
+	f.write(str(description[i]))
+	f.write('\n\n\n')
+f.close()
+
+
+
 cves_sorted = sorted(cves.items(),key=lambda x: x[1])
 
 f = open('cve_ranked.txt','w')
@@ -76,3 +98,7 @@ for i in cves_sorted:
 	f.write(str(line))
 	f.write('\n')
 f.close()
+
+#os.system('rm description.txt')
+#os.system('rm 
+
