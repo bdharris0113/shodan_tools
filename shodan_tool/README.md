@@ -30,3 +30,14 @@ run.sh
 
 run2.sh
 	Runs shodan search (up to date & checked but expensive)
+	
+	
+#Output
+
+    *  cve_description.txt: a description of all cves found
+    
+    *  cve_ranked.txt: CVE & ranking of each
+    
+    *  out2.txt: shodan output
+    
+    *  tmp2.txt & description.txt: temp files for parsing, decided not to delete in case you want to rerun and not grabe everything from online again (avoid getting locked out)
